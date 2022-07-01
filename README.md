@@ -1,5 +1,6 @@
 # DRE-SIM
-This code is our latest work :'DRE-SIM'. As the article is preparing for publication and we are carrying out the next step of relevant research, we will not upload the complete code immediately, and the code will be gradually updated according to our research progress
+we raised a postprocessing method to further improve the lateral resolution of SIM with the help of an untrained neural network. Taking the diffraction limit and SIM reconstruction into consideration, the method can further extend spatial frequency components of SIM images by exploring the implicit prior with the network. 
+As the article is preparing for publication and we are carrying out the next step of relevant research, we will not upload the complete code immediately, and the code will be gradually updated according to our research progress
 
 # Install
 
