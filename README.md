@@ -22,6 +22,7 @@ list of libraries:
 - cudatoolkit=10.2
 - pillow=6.2.1
 - opencv-python
+
 You can create an conda env with all dependencies via environment file
 
 ```
